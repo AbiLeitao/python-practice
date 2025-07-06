@@ -10,7 +10,7 @@ A command-line task manager that reads and writes tasks to a CSV file.
 - Add, view, complete, and delete tasks.
 - [View project](./task-manager/README.md)
 
-## 🤓 About
+## About
 This repository is for learning purposes and ongoing practice. Expect to see experiments, refactoring, and occasional bugs.
 
 ## License
