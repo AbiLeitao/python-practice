@@ -1,10 +1,10 @@
 # PERSONAL TASK MANAGER
 
-# CSV columns - task number, task, complete (Y/N)
 # Option 1 - view tasks from file in a individual string format
 # Option 2 - append new task to end of file
-# Option 3 - Mark task as done
-# Option 4 - delete row
+# Option 3 - mark task as done
+# Option 4 - delete task
+# Option 5 - exit task manager
 
 import csv 
 
